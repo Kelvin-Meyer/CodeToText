@@ -1,0 +1,31 @@
+/*FORM STYLING*/
+#form input, #form label, #form button {
+    font-size: 22px;
+    margin-bottom: 3px;
+}
+
+#form input {
+    text-align: center;
+}
+
+.form-control {
+    height: 45px;
+}
+
+#radioButtons{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+
+
+/*LABEL STYLING*/
+.label-word {
+    font-size: 2em;
+    color: white;
+    background-color: #777;
+    display: inline-block;
+    margin: 3px;
+}
+
+/*OTHER*/
